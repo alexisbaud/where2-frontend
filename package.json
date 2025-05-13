@@ -2,5 +2,10 @@
   "name": "where2-frontend",
   "version": "0.1.0",
   "private": true,
-  "description": "Application mobile pour trouver des activités alternatives"
+  "description": "Application mobile pour trouver des activités alternatives",
+  "dependencies": {
+    "expo": "^53.0.9",
+    "react": "^19.1.0",
+    "react-native": "^0.79.2"
+  }
 }
